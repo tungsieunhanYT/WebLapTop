@@ -103,14 +103,13 @@ nav ul li:nth-child(7) button {
   line-height: 30px;
   border-radius: 40px;
 }
-.slider-product-one-content-item-text li:nth-child(2) {
+.heading-clamp {
   display: -webkit-inline-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;
   max-width: 100%;
   overflow: hidden;
-  display: block;
 }
 .slider-product-one-content-item-text li:first-child p {
   color: #fff;
